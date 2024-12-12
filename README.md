@@ -1,4 +1,4 @@
-# Comprehensive Documentation for HORN Implementation
+# HORN Implementation
 
 ## Table of Contents
 
