@@ -60,19 +60,12 @@ Clone this repository:
 
 ```bash
 
-$ git clone https://github.com/your-repo/horn-implementation.git
+$ git clone https://github.com/Arashkhajooei/Harmonic-Oscillator-Recurrent-Networks.git
 
-$ cd horn-implementation
-
-```
-
-Install dependencies:
-
-```bash
-
-$ pip install -r requirements.txt
+$ cd Harmonic-Oscillator-Recurrent-Networks
 
 ```
+
 
 ---
 
