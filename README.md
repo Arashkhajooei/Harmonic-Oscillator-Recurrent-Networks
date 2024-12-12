@@ -321,10 +321,5 @@ Results include accuracy curves, confusion matrices, and distributions of synchr
 
 ---
 
-## Conclusion
 
-This repository provides a robust implementation of HORN models for sequential tasks, highlighting the importance of learning priors. Detailed analysis tools enable the study of synchronization dynamics and performance metrics.
 
----
-
-Feel free to contribute or open issues for improvements!
